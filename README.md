@@ -27,7 +27,7 @@ This is an empty project structure that can be used as a template for any machin
 │   ├── prediction/
 │   ├── preprocessing/
 │   ├── schema/
-│   ├── xai/
+│   └── xai/
 ├── tests/
 │   ├── <mirrors `/src` structure ...>
 │   ...
