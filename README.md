@@ -9,6 +9,7 @@ This is an empty project structure that can be used as a template for any machin
 ## Project Structure
 
 ```bash
+├── examples/
 ├── inputs/
 │   ├── data/
 │   │   ├── testing/
@@ -39,6 +40,7 @@ This is an empty project structure that can be used as a template for any machin
 └── requirements.txt
 ```
 
+- **`/examples`**: This directory contains all files you want to use as examples. Typically, these would be small data files that can be used as examples for the ML project. We have included the titanic dataset files in this directory. This dataset is used in the tutorial series to develop a binary classification model.
 - **`/inputs`**: This directory contains all the input files for your project, including the data and schema files. The data is further divided into testing and training subsets.
 - **`/model/artifacts`**: This directory is used to store the model artifacts, such as trained models and their parameters.
 - **`/outputs`**: The outputs directory contains all output files, including the prediction results, logs, and hyperparameter tuning outputs.
