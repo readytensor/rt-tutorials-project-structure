@@ -9,6 +9,7 @@ This is an empty project structure that can be used as a template for any machin
 ## Project Structure
 
 ```bash
+binary_class_project/
 ├── examples/
 ├── inputs/
 │   ├── data/
